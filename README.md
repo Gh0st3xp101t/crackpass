@@ -1,1 +1,1 @@
-# crackpass est un casseur de mot de passe.
+# Crackpass is a simple tool to help you crack password
